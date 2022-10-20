@@ -1,0 +1,47 @@
+.nav_footer { 
+  width: 100%;
+  height: 8vh;
+  position: relative;
+  background-color: rgb(179, 144, 55);
+}
+
+.ul_footer {
+  display: flex;
+  justify-content: end;
+  list-style: none;
+  padding: .5rem 0;
+}
+
+.ul_footer li {
+  margin-right: 2rem;
+}
+
+.li_email a {
+  font-size: 25px;
+  width: 30px;
+  opacity: 0.5;
+}
+
+.li_email a:hover {
+    color: #fff
+}
+
+.li_gitHub a {
+  font-size: 25px;
+  width: 30px;
+  opacity: 0.5;
+}
+
+.li_gitHub a:hover {
+  color: #fff
+}
+
+.li_linkedin a {
+  font-size: 25px;
+  width: 30px;
+  opacity: 0.5;
+}
+
+.li_linkedin a:hover {
+  color: #fff;
+}

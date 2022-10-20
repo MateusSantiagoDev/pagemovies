@@ -1,0 +1,19 @@
+.div_geral-details {
+    padding: 2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.div_button-details button{   
+    margin-top: 1.5rem;
+    border-radius: .3rem;
+    padding: .2rem 2rem;
+    color: black;
+    font-weight: 700;
+    background-color: rgb(179, 144, 55);
+    cursor: pointer;   
+}
+
+.div_button-details button:hover {
+    color: #fff;   
+}
