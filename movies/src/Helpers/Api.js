@@ -1,6 +1,6 @@
 import swal from "sweetalert";
 
-const baseURL = "https://api-movies-mdev.herokuapp.com/api";
+const baseURL = "https://api-movies-production-ee7b.up.railway.app/api";
 
 function validate(title, text) {
   swal({
